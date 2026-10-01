@@ -1,1 +1,1 @@
-{"appId":"com.originrecords.app","appName":"Origin Records","webDir":"www","backgroundColor":"#25042b","server":{"androidScheme":"https"}}
+{"appId":"com.originrecords.app","appName":"Origin Records","webDir":"www","backgroundColor":"#25042b","server":{"androidScheme":"https"},"plugins":{"SplashScreen":{"launchShowDuration":2000,"launchAutoHide":true,"backgroundColor":"#25042b","androidScaleType":"CENTER_CROP","showSpinner":false}}}
